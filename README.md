@@ -1,7 +1,7 @@
 <!-- Vedant Kulkarni GitHub Profile README -->
 
 <h1 align="center">
-  Hi there 👋, I'm Vedant Kulkarni!
+  Hi there 👋, I'm Vedant Kulkarni !
 </h1>
 
 <p align="center">
